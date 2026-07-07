@@ -38,7 +38,6 @@ os.environ["NEO4J_PASSWORD"] = "your_neo4j_password"
 os.environ["GROQ_API_KEY"] = "your_groq_api_key"
 ```
 
-> ⚠️ Never upload real API keys, passwords, or database credentials to GitHub.
 
 ### Step 4 — Connect to Neo4j Aura
 
